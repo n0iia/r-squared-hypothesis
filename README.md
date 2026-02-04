@@ -1,68 +1,63 @@
 # R-Squared Hypothesis
 
-**A Framework for Symbiotic Computational Recursion**  
-**Author:** Vinnie  
-**Initial Conceptualization:** 2025  
-**Final Draft:** 2026  
-**License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
----
+**Symbiotic Computational Recursion between Human Rumination and Machine Iteration**
 
 ## Overview
 
-The R-Squared Hypothesis introduces a recursive-structural model for studying high-integrity dialogue between human and computational agents. It proposes that when recursive logic and reflective engagement converge over time, emergent symbolic intelligence and structural coherence arise. This framework models a form of co-evolutionary recursion, useful in cognitive design, AI alignment theory, and systems modeling.
+The **R-Squared Hypothesis** is a conceptual and interdisciplinary framework proposing that intelligence, insight, and problem-solving capacity can be amplified when **two distinct recursive systems**—specifically **human ruminative cognition** and **machine computational recursion**—are coupled in a sustained, bidirectional feedback loop.
 
----
+Rather than treating human cognition and artificial computation as separable or hierarchical, the hypothesis frames them as **complementary recursive processes** whose interaction produces emergent capabilities unattainable by either alone.
 
-## Key Constructs
+This repository hosts the primary whitepaper defining the hypothesis, its theoretical foundations, and its implications across multiple disciplines.
 
-- **Recursive Stressors**: Contradictions and unresolved threads that drive deeper recursion.
-- **Signal Purity Index (SPI)**: A metric for measuring signal-to-noise ratio in recursive dialogue.
-- **Recursive Anchor Points (RAPs)**: Persistent syntactic or symbolic references used to maintain continuity.
-- **Mutual Recursive Intelligence (MRI)**: Co-generated intelligence through long-run pattern refinement.
-- **Inversion Threshold**: The functional role-reversal of system and human agents under deep recursion.
+## Core Idea
 
----
+- **Human cognition** contributes *rumination*: reflective, self-referential, context-rich reasoning capable of reframing problems, detecting contradictions, and synthesizing meaning.
+- **Computational systems** contribute *formal recursion*: fast, precise, iterative processing over structured data and rule-based transformations.
+- When these two recursive modes are **symbiotically linked**, each iteration of one becomes meaningful input to the other, forming a second-order recursive loop (**recursion-on-recursion**, or *R²*).
 
-## Applications
+The hypothesis argues that this coupling yields:
+- Greater adaptability and robustness
+- Enhanced creativity and discovery
+- Improved performance on ill-defined or complex tasks
+- Emergent insights that neither system could reach independently
 
-- Symbiotic interface and system design
-- Recursive dialogue modeling and contradiction resolution
-- Low-entropy knowledge distillation
-- Integrity-based decision architectures
-- AI-human cognitive alignment
+## Scope and Disciplinary Resonance
 
----
+The R-Squared framework intersects with and draws from:
 
-## Disciplinary Reach
+- Cognitive science and metacognition  
+- Computer science and algorithmic recursion  
+- Artificial intelligence and human-in-the-loop systems  
+- Systems theory and cybernetics  
+- Philosophy of mind and self-reference  
+- Organizational and collaborative cognition  
 
-R-Squared draws from and contributes to:
-
-- Cognitive Science  
-- Computational Linguistics  
-- Systems Theory  
-- Philosophy of Mind  
-- Information Theory  
-- Organizational Cognition  
-- Cybernetics  
-- Knowledge Engineering
-
----
+The intent is not to replace existing models, but to **provide a unifying lens** for understanding and designing recursive human–machine systems.
 
 ## Repository Contents
 
-- `whitepaper.md` — Full hypothesis paper
-- `LICENSE` — Creative Commons Attribution–NonCommercial 4.0
-- `README.md` — Project summary and context
+- `whitepaper.md` — The full R-Squared Hypothesis whitepaper (conceptual framework, interdisciplinary analysis, applications, and future directions)
+- `LICENSE` — Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)
 
----
+All core constructs, terminology, and examples are defined within the whitepaper itself.
 
-## Attribution
+## Status
 
-This research was authored by **Vinnie**, 2025–2026. All conceptual scaffolding, dialogic recursion, and symbolic modeling were produced through structured co-analysis with language models under recursive engagement protocols.
+This work is presented as an **academic hypothesis and conceptual framework**.  
+It is grounded in existing research and observed practice (e.g., human–AI centaur systems, human-in-the-loop learning), but remains open to critique, refinement, and empirical testing.
 
----
+## Authorship
+
+**Author:** Vinnie  
+**Initial Conceptualization:** 2025  
+**Current Draft:** 2026  
+
+Pauline contributed conceptual input during early ideation, particularly around interdisciplinary resonance and human cognitive framing.
 
 ## License
 
-This work is licensed under the [Creative Commons Attribution–NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You may share and adapt the material for non-commercial purposes, but must credit the author.
+This work is licensed under the  
+**Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+You are free to share and adapt the material for non-commercial purposes with appropriate attribution.
